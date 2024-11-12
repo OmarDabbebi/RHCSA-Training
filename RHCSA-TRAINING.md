@@ -5,7 +5,7 @@ Welcome to this course on System Administration under Red Hat Enterprise Linux.
 This course is designed to prepare you for the RHCSA (Red Hat Certified System Administrator V9) exam!
 
 ## Table of Contents
-- [Installation of Red Hat Enterprise Linux & Registration](##-I.-Installing-Red-Hat-Enterprise-Linux-&-Registration)
+- [Installation of Red Hat Enterprise Linux & Registration](#-I.-Installing-Red-Hat-Enterprise-Linux-&-Registration)
 - [Basic Commands & Shell Scripts](##-II.-Basic-Commands-&-Shell-Script)
 - [User and Group Management](##-III.-User-and-Group-Management)
 - [Task Automation](##-IV.-task-automation)
