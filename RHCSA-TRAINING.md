@@ -5,18 +5,18 @@ Welcome to this course on System Administration under Red Hat Enterprise Linux.
 This course is designed to prepare you for the RHCSA (Red Hat Certified System Administrator V9) exam!
 
 ## Table of Contents
-- [Installation of Red Hat Enterprise Linux & Registration](#-I.-Installing-Red-Hat-Enterprise-Linux-&-Registration)
-- [Basic Commands & Shell Scripts](##-II.-Basic-Commands-&-Shell-Script)
-- [User and Group Management](##-III.-User-and-Group-Management)
-- [Task Automation](##-IV.-task-automation)
-- [Service Management](##-V.-Service-Management)
-- [Archiving & Compression](##-VI.-Archiving-&-Compression)
-- [NFS & AutoFS](##-VII.-NFS-&-AutoFS)
-- [Storage Management](##-VIII.-Storage-Management)
-- [Container Management](##-IX.-Container-Management)
-- [BaseOS & AppStream Repositories](##-X.-BaseOs-&-AppStream-repositories)
-- [Networks](##-XI.-Networks)
-- [Root Password Reset](##-XII.-Root-Password-Reset)
+- [Installation of Red Hat Enterprise Linux & Registration](#i-installing-red-hat-enterprise-linux--registration)
+- [Basic Commands & Shell Scripts](#ii-basic-commands--shell-script)
+- [User and Group Management](#iii-user-and-group-management)
+- [Task Automation](#iv-task-automation)
+- [Service Management](#v-service-management)
+- [Archiving & Compression](#vi-archiving--compression)
+- [NFS & AutoFS](#vii-nfs--autofs)
+- [Storage Management](#viii-storage-management)
+- [Container Management](#ix-container-management)
+- [BaseOS & AppStream Repositories](#x-baseos--appstream-repositories)
+- [Networks](#xi-networks)
+- [Root Password Reset](#xii-root-password-reset)
 
 ## I. Installing Red Hat Enterprise Linux & Registration
 ### 0. VM Link
